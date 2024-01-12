@@ -1,0 +1,6 @@
+@article{REPO321,
+    author = "Hu, Weihua and Liu, Bowen and Gomes, Joseph and Zitnik, Marinka and Liang, Percy and Pande, Vijay and Leskovec, Jure",
+    journal = "arXiv preprint arXiv:1905.12265",
+    title = "{Strategies for pre-training graph neural networks}",
+    year = "2019"
+}
